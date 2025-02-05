@@ -50,14 +50,17 @@ Note
 		|
 		git add
 		|
-		|----- staging area ------>
+		|
+		  ----- staging area ------>
 								|
 								|
 							git commit 
 								|
 								|
-	    |<--------- Repo ------------
+	      <--------- Repo ----------
+	    |
 		|
 	git push
 		|
-		|----------> Github
+		|
+		 ----------> Github
